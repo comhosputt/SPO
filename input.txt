@@ -1,0 +1,4 @@
+method f()
+begin
+   a = x+y; 
+end;
